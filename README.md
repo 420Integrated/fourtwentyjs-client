@@ -1,10 +1,5 @@
 # SYNOPSIS
 
-[![NPM Status][npm-badge]][npm-link]
-[![Actions Status][actions-badge]][actions-link]
-[![Coverage Status][coverage-badge]][coverage-link]
-[![Discord][discord-badge]][discord-link]
-
 This is the work repository for the FourtwentyJS client project targeting both Node.js and the browser as a platform.
 
 See [Technical Guidelines](#technical-guidelines) to dive directly into development info.
@@ -325,17 +320,4 @@ can be used within the project, have a look e.g. at [fourtwentyjs-block](https:/
 
 Related issues are labelled with the `fourtwentyjs-client` label, see [here](https://github.com/search?utf8=%E2%9C%93&q=org%3Afourtwentyjs+label%3Afourtwentyjs-client&type=Issues&ref=advsearch&l=&l=) for an org-wide search.
 
-## FourtwentyJS
 
-See our organizational [documentation](https://fourtwentyereumjs.readthedocs.io) for an introduction to `FourtwentyJS` as well as information on current standards and best practices.
-
-If you want to join for work or do improvements on the libraries have a look at our [contribution guidelines](https://fourtwentyereumjs.readthedocs.io/en/latest/contributing.html).
-
-[npm-badge]: https://img.shields.io/npm/v/fourtwentyjs-client.svg
-[npm-link]: https://www.npmjs.org/package/fourtwentyjs-client
-[actions-badge]: https://github.com/420integrated/fourtwentyjs-client/workflows/Build/badge.svg
-[actions-link]: https://github.com/420integrated/fourtwentyjs-client/actions
-[coverage-badge]: https://codecov.io/gh/420integrated/fourtwentyjs-client/branch/master/graph/badge.svg
-[coverage-link]: https://codecov.io/gh/420integrated/fourtwentyjs-client
-[discord-badge]: https://img.shields.io/static/v1?logo=discord&label=discord&message=Join&color=blue
-[discord-link]: https://discord.gg/TNwARpR
